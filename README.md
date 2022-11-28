@@ -1,7 +1,5 @@
 # Sorting-Algorithm
 This program is a sorting algorithm. The coding language is C.
-
-/*********************************************************
     This program is sorting algorithm.
     How to use it in the int main?
     printf("%d\n",*(sorting(array,sizeof(array)/4,0)));
@@ -10,4 +8,3 @@ This program is a sorting algorithm. The coding language is C.
     elements    : Number of elements in the array.
     selection 0 : Low to High.
     selection 1 : High to Low.
-************************************************************/
